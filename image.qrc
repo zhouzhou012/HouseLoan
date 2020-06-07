@@ -3,6 +3,5 @@
         <file>image/base.jpg</file>
         <file>image/button.jpg</file>
         <file>image/logol1.jpg</file>
-        <file>image/thank.jpg</file>
     </qresource>
 </RCC>
